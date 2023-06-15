@@ -1,0 +1,3 @@
+"id";"auth_method";"client_id";"grant_type";"redirect_uri";"scope";"secret"
+1;"client_secret_basic";"client";"authorization_code";"https://springone.io/authorized";"openid";"secret"
+2;"client_secret_basic";"rama";"authorization_code";"https://springone.io/authorized";"openid";"secret"
